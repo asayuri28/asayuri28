@@ -1,16 +1,15 @@
-## Hi there 👋
+Bem vindos ao meu perfil 
 
-<!--
-**asayuri28/asayuri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernanda Sayuri Yamamoto 
 
-Here are some ideas to get you started:
+- Estou fazendo o projeto do [alura](https://www.alura.com.br)
+-  Primeira vez que uso GitHub
+-  Estou aprendendo mais sobre programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar no contato comigo 📧
+
+sayuri211802@gmail.com
+
+@eu_sayuri
+
+![](https://github.com/user-attachments/assets/d4ee450c-9c72-425c-956f-fd08b6295578)
